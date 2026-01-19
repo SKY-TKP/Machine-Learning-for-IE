@@ -20,12 +20,14 @@ No pressure. No gatekeeping. Just learning together 🤝
 
 Not sure where you stand? Check out the learning path below. This covers the standard undergraduate curriculum for Probability & Statistics.
 
+![Picture](https://github.com/SKY-TKP/Machine-Learning-for-IE/blob/main/2100-xxx%3A%20PROB%20%26%20STAT%20ENG/Picture/LearningPath.png)
+
 > **📝 A Note for Industrial Engineers (IE):**
 > While this repo covers the core curriculum, it **does not** cover *Design of Experiments (DOE)* or *Statistical Process Control (SPC)*. These topics are typically taught in advanced/specialized IE courses later on.
 
 ---
 
-## ⚠️ Prerequisites (Read this first!)
+## ⚠️ Prerequisites
 
 Before diving in, there are a few things you should be comfortable with to get the most out of these materials. Don't worry, you don't need to be a math wizard, but you should know the basics:
 
@@ -40,11 +42,11 @@ Before diving in, there are a few things you should be comfortable with to get t
 Everything here is organized to help you **review fast, understand deeper, and practice smarter**.
 
 * 📘 **Practice Exercise Book**
-👉 [`PROB_STAT_ENG_PracExercise.pdf`](https://www.google.com/search?q=./PROB_STAT_ENG_PracExercise.pdf)
+👉 [`PROB_STAT_ENG_PracExercise.pdf`](https://github.com/SKY-TKP/Machine-Learning-for-IE/blob/main/2100-xxx%3A%20PROB%20%26%20STAT%20ENG/PROB_STAT_ENG_PracExercise.pdf)
 * 🧠 **Detailed Solutions (Step-by-Step)**
-👉 [`Detailed Solution/`](https://www.google.com/search?q=./Detailed%2520Solution)
+👉 [`Detailed Solution/`](https://github.com/SKY-TKP/Machine-Learning-for-IE/tree/main/2100-xxx%3A%20PROB%20%26%20STAT%20ENG/Detailed%20Solution)
 * 📊 **Statistical Tables** (Z-table, Chi-square, etc.)
-👉 [`Statistical_Tables.pdf`](https://www.google.com/search?q=./Statistical_Tables.pdf)
+👉 [`Statistical_Tables.pdf`](https://github.com/SKY-TKP/Machine-Learning-for-IE/blob/main/2100-xxx%3A%20PROB%20%26%20STAT%20ENG/Statistical_Tables.pdf)
 
 ---
 
