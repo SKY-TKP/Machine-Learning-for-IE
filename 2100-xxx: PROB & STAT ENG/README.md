@@ -21,7 +21,7 @@ No pressure. No gatekeeping. Just learning together 🤝
 
 Everything here is organized to help you **review fast, understand deeper, and practice effectively**.
 
-* 📘 **Practice Exercise Book**  
+* 📘 **Practice Exercise Book** 
   👉 [`PROB_STAT_ENG_PracExercise.pdf`](https://github.com/SKY-TKP/Machine-Learning-for-IE/blob/main/2100-xxx%3A%20PROB%20%26%20STAT%20ENG/PROB_STAT_ENG_PracExercise.pdf) *(If you don't have enough time, I selected **5 key problems per chapter** for you — see [`via`](https://github.com/SKY-TKP/Machine-Learning-for-IE/blob/main/2100-xxx:%20PROB%20&%20STAT%20ENG/Detailed%20Solution/Recommend%20Problem.md))*
   
 * 🧠 **Detailed Solutions (Step-by-Step)**  
@@ -32,9 +32,12 @@ Everything here is organized to help you **review fast, understand deeper, and p
 
 * 🧐 **More content coming soon...**
 
+> 🔤 **Note:**  
+> This repository is **English-only**, just like the actual exams 🙂
+
 ---
 
-## 🧠 Recommended Problems (Exam-Oriented)
+## 🧠 Recommended Problems
 
 Not sure **which problems are actually worth your time**, especially before exams?
 
