@@ -239,11 +239,3 @@
 These problems are excellent for reinforcing **conceptual understanding** and catching **common misconceptions** before the exam.
 
 ---
-
-ถ้าคุณอยากได้ขั้นต่อไป:
-
-* 🔧 ปรับ anchor ให้ **ตรง 100% กับ GitHub auto-link**
-* 📄 แยกเป็น **README.md + SUMMARY.md**
-* 🧠 เพิ่ม column “Exam Frequency ⭐”
-
-บอกมาได้เลยครับ อันนี้ต่อยอดได้อีกไกลมาก 🚀
