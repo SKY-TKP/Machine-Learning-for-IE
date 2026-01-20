@@ -19,7 +19,7 @@
 13. [Chapter 13 – Chi-square Tests](#chapter-13--chi-square-tests)
 14. [Chapter 14 – Nonparametric Methods](#chapter-14--nonparametric-methods)
 15. [Chapter 15 – Simple Linear Regression](#chapter-15--simple-linear-regression)
-16. [Chapter 16 – Correlation & Diagnostics](#chapter-16--correlation--diagnostics)
+16. [Chapter 16 – Multiple Linear Regression](#chapter-16--multiple-linear-regression)
 17. [Chapter 17 – Likelihood & Advanced Inference](#chapter-17--likelihood--advanced-inference)
 
 ---
@@ -204,7 +204,7 @@
 
 ---
 
-## Chapter 16 – Correlation & Diagnostics
+## Chapter 16 – Multiple Linear Regression
 
 | Priority | Problem No. | Recommended Problem             | Core Skill      |
 | -------- | ----------- | ------------------------------- | --------------- |
