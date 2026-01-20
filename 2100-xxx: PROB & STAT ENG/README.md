@@ -22,7 +22,7 @@ No pressure. No gatekeeping. Just learning together 🤝
 Everything here is organized to help you **review fast, understand deeper, and practice effectively**.
 
 * 📘 **Practice Exercise Book** 
-  👉 [`PROB_STAT_ENG_PracExercise.pdf`](https://github.com/SKY-TKP/Machine-Learning-for-IE/blob/main/2100-xxx%3A%20PROB%20%26%20STAT%20ENG/PROB_STAT_ENG_PracExercise.pdf) *(If you don't have enough time, I selected **5 key problems per chapter** for you — see [`via`](https://github.com/SKY-TKP/Machine-Learning-for-IE/blob/main/2100-xxx:%20PROB%20&%20STAT%20ENG/Detailed%20Solution/Recommend%20Problem.md))*
+  👉 [`PROB_STAT_ENG_PracExercise.pdf`](https://github.com/SKY-TKP/Machine-Learning-for-IE/blob/main/2100-xxx%3A%20PROB%20%26%20STAT%20ENG/PROB_STAT_ENG_PracExercise.pdf) *(If you don't have enough time, I selected **5 key problems per chapter** for you — see [`via`](https://github.com/SKY-TKP/Machine-Learning-for-IE/blob/main/2100-xxx%3A%20PROB%20%26%20STAT%20ENG/Detailed%20Solution/README.md))*
   
 * 🧠 **Detailed Solutions (Step-by-Step)**  
   👉 [`Detailed Solution/`](https://github.com/SKY-TKP/Machine-Learning-for-IE/tree/main/2100-xxx%3A%20PROB%20%26%20STAT%20ENG/Detailed%20Solution)  
@@ -46,7 +46,7 @@ I curated a **chapter-by-chapter list of recommended problems** designed to:
 - cover **core concepts efficiently**
 - avoid spending time on low-impact exercises
 
-👉 **[Recommended Problems by Chapter (Must-Do List)](https://github.com/SKY-TKP/Machine-Learning-for-IE/blob/main/2100-xxx:%20PROB%20&%20STAT%20ENG/Detailed%20Solution/Recommend%20Problem.md)**
+👉 **[Recommended Problems by Chapter (Must-Do List)](https://github.com/SKY-TKP/Machine-Learning-for-IE/blob/main/2100-xxx%3A%20PROB%20%26%20STAT%20ENG/Detailed%20Solution/README.md)**
 
 > 💡 Tip:  
 > If you are short on time, **start here first**, then move on to additional exercises if time permits.
