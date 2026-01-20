@@ -21,14 +21,11 @@ No pressure. No gatekeeping. Just learning together 🤝
 
 Everything here is organized to help you **review fast, understand deeper, and practice effectively**.
 
-* 📘 **Practice Exercise Book** 
-  👉 [`PROB_STAT_ENG_PracExercise.pdf`](https://github.com/SKY-TKP/Machine-Learning-for-IE/blob/main/2100-xxx%3A%20PROB%20%26%20STAT%20ENG/PROB_STAT_ENG_PracExercise.pdf) *(If you don't have enough time, I selected **5 key problems per chapter** for you — see [`via`](https://github.com/SKY-TKP/Machine-Learning-for-IE/blob/main/2100-xxx%3A%20PROB%20%26%20STAT%20ENG/Detailed%20Solution/README.md))*
+* 📘 **Practice Exercise Book** 👉 [`PROB_STAT_ENG_PracExercise.pdf`](https://github.com/SKY-TKP/Machine-Learning-for-IE/blob/main/2100-xxx%3A%20PROB%20%26%20STAT%20ENG/PROB_STAT_ENG_PracExercise.pdf)
   
-* 🧠 **Detailed Solutions (Step-by-Step)**  
-  👉 [`Detailed Solution/`](https://github.com/SKY-TKP/Machine-Learning-for-IE/tree/main/2100-xxx%3A%20PROB%20%26%20STAT%20ENG/Detailed%20Solution)  
+* 🧠 **Detailed Solutions (Step-by-Step)** 👉 [`Detailed Solution/`](https://github.com/SKY-TKP/Machine-Learning-for-IE/tree/main/2100-xxx%3A%20PROB%20%26%20STAT%20ENG/Detailed%20Solution)  
 
-* 📊 **Statistical Tables** (Z-table, Chi-square, etc.)  
-  👉 [`Statistical_Tables.pdf`](https://github.com/SKY-TKP/Machine-Learning-for-IE/blob/main/2100-xxx%3A%20PROB%20%26%20STAT%20ENG/Statistical_Tables.pdf)
+* 📊 **Statistical Tables** (Z-table, Chi-square, etc.)  👉 [`Statistical_Tables.pdf`](https://github.com/SKY-TKP/Machine-Learning-for-IE/blob/main/2100-xxx%3A%20PROB%20%26%20STAT%20ENG/Statistical_Tables.pdf)
 
 * 🧐 **More content coming soon...**
 
