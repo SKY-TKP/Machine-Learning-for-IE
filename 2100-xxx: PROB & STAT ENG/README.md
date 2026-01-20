@@ -16,6 +16,20 @@ I’m Gun IE106. I'm just a **senior engineering student** who once struggled wi
 No pressure. No gatekeeping. Just learning together 🤝
 
 ---
+
+## 📂 What’s Inside This Repository?
+
+Everything here is organized to help you **review fast, understand deeper, and practice exercise**.
+
+* 📘 **Practice Exercise Book**
+👉 [`PROB_STAT_ENG_PracExercise.pdf`](https://github.com/SKY-TKP/Machine-Learning-for-IE/blob/main/2100-xxx%3A%20PROB%20%26%20STAT%20ENG/PROB_STAT_ENG_PracExercise.pdf)
+* 🧠 **Detailed Solutions (Step-by-Step)**
+👉 [`Detailed Solution/`](https://github.com/SKY-TKP/Machine-Learning-for-IE/tree/main/2100-xxx%3A%20PROB%20%26%20STAT%20ENG/Detailed%20Solution)
+* 📊 **Statistical Tables** (Z-table, Chi-square, etc.)
+👉 [`Statistical_Tables.pdf`](https://github.com/SKY-TKP/Machine-Learning-for-IE/blob/main/2100-xxx%3A%20PROB%20%26%20STAT%20ENG/Statistical_Tables.pdf)
+* 🧐 **To be soon**...
+  
+---
 ## 🗺️ Learning Path & Scope
 
 Not sure where you stand? Check out the learning path below. This covers the standard undergraduate curriculum for Probability & Statistics.
@@ -23,7 +37,7 @@ Not sure where you stand? Check out the learning path below. This covers the sta
 ![Picture](https://github.com/SKY-TKP/Machine-Learning-for-IE/blob/main/2100-xxx%3A%20PROB%20%26%20STAT%20ENG/Picture/LearningPath.png)
 
 > **📝 A Note for Industrial Engineers (IE):**
-> While this repo covers the core curriculum, it **does not** cover *Design of Experiments (DOE)* or *Statistical Process Control (SPC)*. These topics are typically taught in advanced/specialized IE courses later on.
+> While this repo covers the core curriculum, it **does not** cover *Design of Experiments (DOE)* or *Statistical Process Control (SPC)*. These topics are typically taught in IE courses later on.
 
 ---
 
@@ -37,24 +51,12 @@ Before diving in, there are a few things you should be comfortable with to get t
 
 ---
 
-## 📂 What’s Inside This Repository?
-
-Everything here is organized to help you **review fast, understand deeper, and practice smarter**.
-
-* 📘 **Practice Exercise Book**
-👉 [`PROB_STAT_ENG_PracExercise.pdf`](https://github.com/SKY-TKP/Machine-Learning-for-IE/blob/main/2100-xxx%3A%20PROB%20%26%20STAT%20ENG/PROB_STAT_ENG_PracExercise.pdf)
-* 🧠 **Detailed Solutions (Step-by-Step)**
-👉 [`Detailed Solution/`](https://github.com/SKY-TKP/Machine-Learning-for-IE/tree/main/2100-xxx%3A%20PROB%20%26%20STAT%20ENG/Detailed%20Solution)
-* 📊 **Statistical Tables** (Z-table, Chi-square, etc.)
-👉 [`Statistical_Tables.pdf`](https://github.com/SKY-TKP/Machine-Learning-for-IE/blob/main/2100-xxx%3A%20PROB%20%26%20STAT%20ENG/Statistical_Tables.pdf)
-
----
 
 ## 🎯 Problem Design & Difficulty Levels
 
 I believe that engineering stats shouldn't just be "math for math's sake." The problems in this repo are designed to be **domain-neutral**.
 
-Whether you are in **Electrical, Chemical, Civil, or Industrial Engineering**, you can use these resources. The problems are curated and edited to be universally applicable across engineering disciplines.
+Whether you are in **Industrial, Electrical, Chemical, Civi Engineering, etc...**, you can use these resources. The problems are curated and edited to be universally applicable across engineering disciplines.
 
 Each chapter features problems categorized into 4 levels:
 
