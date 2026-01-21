@@ -11,6 +11,11 @@
 If you’re looking for a course that goes **beyond “how to use ML”** and dives into
 **why these models work (mathematically)** — you’ve found the right place.
 
+<p align="center">
+  <img src="https://github.com/SKY-TKP/Machine-Learning-for-IE/blob/main/2102-575%3A%20STAT%20INFER%20MODEL/Logo.png" width="200">
+</p>
+
+
 This repository is based on **2102-575: Statistical Inference and Modeling**,
 an advanced elective offered by the **Department of Electrical Engineering**,
 typically taken in **Year 4, Semester 2**.
