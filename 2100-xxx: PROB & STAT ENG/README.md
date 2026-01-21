@@ -1,6 +1,6 @@
 # 📊 Probability & Statistics for Engineers
 
-*2100-xxx | Practice Exercises & Detailed Solutions*
+**2100-xxx | Practice Exercises & Detailed Solutions**
 
 ---
 
