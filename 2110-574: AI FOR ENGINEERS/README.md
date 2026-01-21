@@ -1,102 +1,132 @@
-# 📘 Artificial Intelligence for Engineers  
-*รีวิวจากประสบการณ์จริง ปี 3 เทอม 1 (2567 เทอมต้น)*
+# 📘 Artificial Intelligence for Engineers
+
+**2110-574| AI ENG**
+
+*(Department of Computer Engineering)*
+
+---
+##👋 Welcome!
+
+For those who just stopped by 👀
+If you’re wondering:
+
+> **Should I take AI? Is it difficult? Will I actually gain something useful?**
+
+Here’s the short and honest answer:
+
+## 🟢 **“Highly recommended for everyone.”** ✅
 
 ---
 
-สำหรับคนที่ผ่านไปผ่านมา 👀  
-ถ้าท่านกำลังลังเลว่า **ควรลงวิชา AI ดีไหม? ยากไหม? ได้อะไรจริงหรือเปล่า?**  
-ผมขอสรุปให้แบบสั้น ๆ ชัด ๆ เลยว่า…
+## ✅ Why You Should Take This Course
 
-## 🟢 **“แนะนำให้ลงทุกคน”** ✅
+* 🎯 **Grade-friendly (A is very achievable)**
+  Just don’t disappear, skip assignments, or procrastinate.
 
----
+* 🧠 **Perfect for beginners** in AI / ML / DL
+  No prior background required.
 
-## ✅ เหตุผลที่ควรลงวิชานี้
-- 🎯 **วิชาแจก A (จริง!)** ถ้าไม่เท ไม่หาย ไม่ดองงาน  
-- 🧠 เนื้อหาเหมาะมากสำหรับ **ผู้เริ่มต้นด้าน AI / ML / DL**
-- 👷‍♂️ **ไม่ต้องมาจากคณะคอม** — วิศวกรทุกสาขาเรียนได้สบาย
-- 💻 **เรียนออนไลน์ 100%** เรียนเบา ๆ แต่เนื้อหาครบ
-- 🔓 **เปิดทุกเทอม ลงง่าย** ไม่ต้องลุ้นโควตา
+* 👷‍♂️ **No Computer Science background needed**
+  Engineering students from any major can follow comfortably.
 
----
+* 💻 **100% Online**
+  Light workload, well-structured content.
 
-## 🧠 เนื้อหาคร่าว ๆ ที่จะได้เรียน
-- แนวคิดพื้นฐานของ **AI / Machine Learning / Deep Learning**
-- 🤖 **Supervised vs Unsupervised Learning**
-- 🧩 **Neural Network & Activation Function**
-- 🏭 การประยุกต์ใช้ AI ในงานวิศวกรรม
+* 🔓 **Offered every semester**
+  Easy to enroll, no quota pressure.
 
 ---
 
-## 📚 โครงสร้างเนื้อหา (Lecture)
+## 🧠 What You’ll Learn
 
-### 📝 Midterm
-- L.1 Introduction to AI for Engineers  
-- L.2 State Space Search  
-- L.3 Informed Search  
-- L.4 Iterative Improvement Algorithm  
-- L.5 Machine Learning Pipeline  
-- L.6 Linear Regression  
-- L.7 Logistic Regression  
-
-### 🧠 Final
-- L.8 Naive Bayes  
-- L.9 Decision Tree  
-- L.10 Unsupervised Learning  
-- L.11 Neural Network  
-- L.12 Convolutional Network  
+* Fundamental concepts of **AI, Machine Learning, and Deep Learning**
+* 🤖 **Supervised vs. Unsupervised Learning**
+* 🧩 **Neural Networks & Activation Functions**
+* 🏭 Engineering applications of AI
 
 ---
 
-## 📊 สัดส่วนคะแนน
-- 🟢 เช็คชื่อเข้าเรียน — **15%**
-- ✍️ งาน In-class — **15%**
-- 🧑‍💻 งาน Homework — **20%**
-- 📝 สอบ Midterm — **25%** (Mutiple Choice - 50 ข้อ)
-- 📝 สอบ Final — **25%** (Mutiple Choice - 50 ข้อ)
+## 📚 Course Structure
 
-> ⚠️ เก็บงานสม่ำเสมอ = ผ่านสบายมาก
+### 📝 Midterm Coverage
 
----
+* L1 — Introduction to AI for Engineers
+* L2 — State Space Search
+* L3 — Informed Search
+* L4 — Iterative Improvement Algorithms
+* L5 — Machine Learning Pipeline
+* L6 — Linear Regression
+* L7 — Logistic Regression
 
-## 📝 รีวิวข้อสอบ
-- ข้อสอบ **ปรนัย 50 ข้อ**
-- 🔒 **Closed book**
-- 📖 ออกเน้น **Lecture เป็นหลัก**
-- 🧪 **ไม่เน้น Lab** (ไม่ต้องกลัวโค้ดยาว ๆ ในห้องสอบ)
+### 🧠 Final Coverage
 
----
-
-## 💻 รีวิวการบ้าน & งานเรียน
-- 📌 **มีการบ้านทุกครั้งที่เรียน**
-- ใช้ **Python บน Google Colab**
-- อาจารย์เตรียมไฟล์ Colab พร้อมโค้ดมาให้
-  - ✏️ เขียนเพิ่ม / แก้โค้ดตามคำสั่ง
-- ⏰ งาน Homework
-  - มีเวลาทำ **ประมาณ 1 สัปดาห์**
-- 🕒 งาน In-class
-  - มีบางครั้ง
-  - ส่งภายใน **23:59 ของวันที่เรียน**
+* L8 — Naive Bayes
+* L9 — Decision Trees
+* L10 — Unsupervised Learning
+* L11 — Neural Networks
+* L12 — Convolutional Neural Networks
 
 ---
 
-## 💡 เหมาะกับใคร?
-- 🎓 ปี 3–4 ที่อยากหา **วิชาเบา แต่เกรดสวย**
-- 🤔 คนที่สนใจ AI แต่ **ยังไม่เคยเรียนมาก่อน**
-- 📜 คนที่อยากมีชื่อวิชา  
-  **“AI for Engineers”**  
-  โชว์เท่ ๆ ใน Transcript 😎  
+## 📊 Grading Breakdown
 
-> เชื่อเถอะ…  
-> **A วิชานี้ดูดีกว่า GenEd หลายตัวมาก**  
-> เวลาเอาไปสมัครงาน ✨
+* 🟢 Attendance — **15%**
+* ✍️ In-class Assignments — **15%**
+* 🧑‍💻 Homework — **20%**
+* 📝 Midterm Exam — **25%** (Multiple Choice, 50 questions)
+* 📝 Final Exam — **25%** (Multiple Choice, 50 questions)
 
----
-
-## 👷‍♂️ คำจากใจผู้รีวิว
-> **“AI, ML, DL คือหัวใจของเทคโนโลยียุคใหม่  
-> ก่อนจะออกไปเป็นนายช่างที่มีคุณภาพ”**
+> ⚠️ Stay consistent with assignments = passing is very comfortable.
 
 ---
 
-✨ *ถ้ากำลังลังเล — ลงเถอะ ไม่ผิดหวังแน่นอน*  
+## 📝 Exam Review
+
+* 🧪 **Multiple-choice format (50 questions)**
+* 🔒 **Closed-book**
+* 📖 Exam content is **lecture-focused**
+* 💻 **Minimal coding in exams**
+  (No long code writing under pressure)
+
+---
+
+## 💻 Homework & Coursework Review
+
+* 📌 **Homework assigned almost every lecture**
+* 🐍 Uses **Python on Google Colab**
+* Instructors provide prepared Colab notebooks
+
+  * ✏️ You modify or extend existing code
+* ⏰ Homework deadline
+
+  * Usually **~1 week**
+* 🕒 In-class assignments
+
+---
+
+## 💡 Who Is This Course For?
+
+* 🎓 Year 3–4 students looking for a
+  **light course with a strong transcript impact**
+* 🤔 Anyone interested in AI but
+  **starting from zero**
+* 📜 Students who want
+  **“Artificial Intelligence for Engineers”**
+  on their transcript — it looks great 😎
+
+> Trust me…
+> **An A in this course looks better than many GenEd courses**
+> when applying for jobs ✨
+
+---
+
+## 👷‍♂️ Final Words from the Reviewer
+
+> **“AI, ML, and DL are the core technologies of the modern era.
+> Understanding them is part of becoming a high-quality engineer.”**
+
+---
+
+✨ *If you’re still undecided — just take it. You won’t regret it.*
+
+---
