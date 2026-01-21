@@ -23,7 +23,7 @@ Everything here is organized to help you **review fast, understand deeper, and p
 
 * 📘 **Practice Exercise Book** 👉 [`PROB_STAT_ENG_PracExercise.pdf`](https://github.com/SKY-TKP/Machine-Learning-for-IE/blob/main/2100-xxx%3A%20PROB%20%26%20STAT%20ENG/PROB_STAT_ENG_PracExercise.pdf)
   
-* 🧠 **Detailed Solutions (Step-by-Step)** 👉 [`Detailed Solution/`](https://github.com/SKY-TKP/Machine-Learning-for-IE/tree/main/2100-xxx%3A%20PROB%20%26%20STAT%20ENG/Detailed%20Solution)  
+* 🧠 **Detailed Solutions (Step-by-Step)** 👉 [`Detailed Solution`](https://github.com/SKY-TKP/Machine-Learning-for-IE/tree/main/2100-xxx%3A%20PROB%20%26%20STAT%20ENG/Detailed%20Solution)  
 
 * 📊 **Statistical Tables** (Z-table, Chi-square, etc.)  👉 [`Statistical_Tables.pdf`](https://github.com/SKY-TKP/Machine-Learning-for-IE/blob/main/2100-xxx%3A%20PROB%20%26%20STAT%20ENG/Statistical_Tables.pdf)
 
