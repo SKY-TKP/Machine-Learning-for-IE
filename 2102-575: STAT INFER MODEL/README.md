@@ -132,7 +132,7 @@ This course assumes you are **comfortable with mathematical tools** commonly use
 
 Since this course is **theory-heavy**, pairing it with a **practice-oriented course** is highly recommended:
 
-* 🧠 **2110-574 AI for Engineers**
+* 🧠 [**2110-574 AI for Engineers**](https://github.com/SKY-TKP/Machine-Learning-for-IE/tree/main/2110-574%3A%20AI%20FOR%20ENGINEERS)
 * 💻 [**2104-306 Introduction to Machine Learning (IE)**](https://github.com/SKY-TKP/Machine-Learning-for-IE/tree/main/2104-305%3A%20INTRO%20MAC%20LANG%20IE)
 * etc...
 
