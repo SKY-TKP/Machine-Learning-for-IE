@@ -1,6 +1,7 @@
 # 📈 Statistical Inference and Modeling
 
 **2102-575 | STAT INFER MODEL**
+
 *(Department of Electrical Engineering)*
 
 ---
