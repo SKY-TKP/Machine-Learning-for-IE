@@ -34,8 +34,10 @@
 | Continuous Random Variable             | 4                       | ตัวแปรสุ่มต่อเนื่อง              |
 | Probability Mass Function (PMF)        | 3                       | ฟังก์ชันมวลความน่าจะเป็น         |
 | Probability Density Function (PDF)     | 4                       | ฟังก์ชันความหนาแน่นความน่าจะเป็น |
+| Probability Mass Function (jPMF)        | 5                       | ฟังก์ชันมวลความน่าจะเป็นร่วม         |
+| Joint Probability Density Function (jPDF)     | 5                       | ฟังก์ชันความหนาแน่นความน่าจะเป็นร่วม |
 | Cumulative Distribution Function (CDF) | 3                       | ฟังก์ชันแจกแจงสะสม               |
-| Expected Value                         | 3                       | ค่าคาดหมาย                       |
+| Expected Value / Expectation                        | 3                       | ค่าคาดหมาย                       |
 | Variance of RV                         | 3                       | ความแปรปรวนของตัวแปรสุ่ม         |
 
 ---
@@ -71,7 +73,7 @@
 | Interval Estimation         | 9                       | การประมาณค่าแบบช่วง         |
 | Confidence Interval         | 9                       | ช่วงความเชื่อมั่น           |
 | Hypothesis Testing          | 10                      | การทดสอบสมมติฐาน            |
-| Null Hypothesis (H₀)        | 10                      | สมมติฐานศูนย์               |
+| Null Hypothesis (H₀)        | 10                      | สมมติฐานหลัก               |
 | Alternative Hypothesis (H₁) | 10                      | สมมติฐานทางเลือก            |
 | Significance Level (α)      | 10                      | ระดับนัยสำคัญ               |
 | p-value                     | 10                      | ค่า p                       |
@@ -100,8 +102,6 @@
 
 | English Term                     | First Appears (Chapter) | Thai Translation                             |
 | -------------------------------- | ----------------------- | -------------------------------------------- |
-| Expectation                      | 3                       | ค่าคาดหมาย                                   |
-| Expected Value                   | 3                       | ค่าคาดหมาย                                   |
 | Linearity of Expectation         | 3                       | สมบัติเชิงเส้นของค่าคาดหมาย                  |
 | Moment                           | 6                       | โมเมนต์                                      |
 | Raw Moment                       | 6                       | โมเมนต์ดิบ                                   |
