@@ -3,6 +3,7 @@
 | English Term                    | First Appears (Chapter) | Thai Translation            |
 | ------------------------------- | ----------------------- | --------------------------- |
 | Descriptive Statistics          | 1                       | สถิติเชิงพรรณนา             |
+| Inferential Statistics          | 1                       | สถิติเชิงอนุมาน            |
 | Population                      | 1                       | ประชากร                     |
 | Sample                          | 1                       | ตัวอย่าง                    |
 | Parameter                       | 1                       | พารามิเตอร์                 |
@@ -11,9 +12,10 @@
 | Median                          | 1                       | ค่ามัธยฐาน                  |
 | Mode                            | 1                       | ฐานนิยม                     |
 | Variance                        | 1                       | ความแปรปรวน                 |
-| Standard Deviation              | 1                       | ส่วนเบี่ยงเบนมาตรฐาน        |
+| Standard Deviation (SD. / STDEV.)              | 1                       | ส่วนเบี่ยงเบนมาตรฐาน        |
 | Interquartile Range (IQR)       | 1                       | พิสัยระหว่างควอไทล์         |
-| Outlier                         | 1                       | ค่าผิดปกติ                  |
+| Coefficient of Variation (CV)       | 1                       | สัมประสิทธิ์การแปรผัน        |
+| Outlier                         | 1                       | ค่าผิดปกติ / ค่านอกเกณฑ์                  |
 | Exploratory Data Analysis (EDA) | 1                       | การวิเคราะห์ข้อมูลเชิงสำรวจ |
 
 ---
@@ -52,7 +54,7 @@
 | Geometric Distribution         | 3                       | การแจกแจงเรขาคณิต          |
 | Hypergeometric Distribution    | 3                       | การแจกแจงไฮเปอร์จีโอเมตริก |
 | Negative Binomial Distribution | 3                       | การแจกแจงทวินามลบ          |
-| Uniform Distribution           | 4                       | การแจกแจงสม่ำเสมอ          |
+| Uniform Distribution           | 4                       | การแจกแจงสม่ำเสมอ / การแจกแจงเอกรูป         |
 | Exponential Distribution       | 4                       | การแจกแจงเอ็กซ์โปเนนเชียล  |
 | Normal Distribution            | 4                       | การแจกแจงปกติ              |
 | Standard Normal Distribution   | 4                       | การแจกแจงปกติมาตรฐาน       |
@@ -69,6 +71,7 @@
 | Sampling Distribution       | 7                       | การแจกแจงของสถิติจากการสุ่ม |
 | Central Limit Theorem (CLT) | 7                       | ทฤษฎีบทขีดจำกัดกลาง         |
 | Law of Large Numbers        | 7                       | กฎจำนวนมาก                  |
+| Degree of Freedom (df)        | 4                       | ระดับขั้นความเสรี                  |
 | Point Estimation            | 8                       | การประมาณค่าแบบจุด          |
 | Interval Estimation         | 9                       | การประมาณค่าแบบช่วง         |
 | Confidence Interval         | 9                       | ช่วงความเชื่อมั่น           |
@@ -76,7 +79,7 @@
 | Null Hypothesis (H₀)        | 10                      | สมมติฐานหลัก               |
 | Alternative Hypothesis (H₁) | 10                      | สมมติฐานทางเลือก            |
 | Significance Level (α)      | 10                      | ระดับนัยสำคัญ               |
-| p-value                     | 10                      | ค่า p                       |
+| p-value                     | 10                      | ค่า *p*                       |
 | Type I Error                | 10                      | ความผิดพลาดชนิดที่ 1        |
 | Type II Error               | 10                      | ความผิดพลาดชนิดที่ 2        |
 
