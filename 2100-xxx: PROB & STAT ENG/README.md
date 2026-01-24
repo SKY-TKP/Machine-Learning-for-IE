@@ -56,7 +56,7 @@ I curated a **chapter-by-chapter list of recommended problems** designed to:
 Not sure where you stand? Check out the learning path below.  
 This covers the standard undergraduate curriculum for Probability & Statistics.
 
-![Picture](https://github.com/SKY-TKP/Machine-Learning-for-IE/blob/main/2100-xxx%3A%20PROB%20%26%20STAT%20ENG/Picture/LearningPath.png)
+![Picture](https://github.com/SKY-TKP/Machine-Learning-for-IE/blob/main/2100-xxx%3A%20PROB%20%26%20STAT%20ENG/Supplyment%20Material/LearningPath.png)
 
 > **📝 A Note for Industrial Engineers (IE):**  
 > While this repo covers the core curriculum, it **does not** include  
