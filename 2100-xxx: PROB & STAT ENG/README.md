@@ -27,7 +27,7 @@ Everything here is organized to help you **review fast, understand deeper, and p
 
 * 📊 **Statistical Tables** (Z-table, Chi-square, etc.)**  👉 [`Statistical_Tables.pdf`](https://github.com/SKY-TKP/Machine-Learning-for-IE/blob/main/2100-xxx%3A%20PROB%20%26%20STAT%20ENG/Statistical_Tables.pdf)
 
-* 💬 **Word Grossary (en-th)** 👉 [`Word_Grossary (en-th)`](https://github.com/SKY-TKP/Machine-Learning-for-IE/blob/main/2100-xxx%3A%20PROB%20%26%20STAT%20ENG/word_grossary.md)
+* 💬 **Word Grossary (en-th)** 👉 [`Word_Grossary (en-th)`](https://github.com/SKY-TKP/Machine-Learning-for-IE/blob/main/2100-xxx%3A%20PROB%20%26%20STAT%20ENG/Supplyment%20Material/word_grossary.md)
 * 🧐 **More content coming soon...**
 
 > 🔤 **Note:**  
