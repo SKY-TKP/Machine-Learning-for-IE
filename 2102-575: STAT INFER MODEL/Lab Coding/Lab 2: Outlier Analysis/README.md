@@ -1,4 +1,4 @@
-If you want diagonal element from matrix $A x B$, you can use 2 method (or above) to select them by:
+If you want diagonal element from matrix $A$ x $B$, you can use 2 method (or above) to select them by:
 
 - `np.diag( A @ B )` (High time consume, but easy reading) 
 - `np.sum( A * B.T, axis = 1)` (Low time consume, but hard reading)
