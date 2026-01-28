@@ -163,13 +163,6 @@ This repository is designed as a **personal knowledge base + revision hub**.
   * Actual lab exercises done during the course
   * Focus on reinforcing theoretical concepts
 
-* 🧾 **Cheat Sheets**
-
-  * Summary of key properties for each algorithm
-  * Assumptions, strengths, limitations, and comparisons
-
-> Ideal for **exam revision**, **concept review**, or **future reference**.
-
 ---
 
 ## 🎯 Who Should Take This Course?
