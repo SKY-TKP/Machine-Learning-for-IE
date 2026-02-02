@@ -46,5 +46,3 @@ For the EKG signal, we utilized **SARIMA ** to capture the rhythmic heartbeats.
 3. **Residuals:** Final diagnostics showed white noise residuals, confirming the model has extracted all available information.
 
 ---
-
-**Would you like me to help you write the `Installation` or `How to run` section for your GitHub README as well?**
