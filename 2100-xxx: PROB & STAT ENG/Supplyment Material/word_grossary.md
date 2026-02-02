@@ -8,11 +8,12 @@
 | Sample                          | 1                       | ตัวอย่าง                    |
 | Parameter                       | 1                       | พารามิเตอร์                 |
 | Statistic                       | 1                       | ค่าสถิติ                    |
-| Mean                            | 1                       | ค่าเฉลี่ย                   |
+| Mean / Average                            | 1                       | ค่าเฉลี่ย                   |
 | Median                          | 1                       | ค่ามัธยฐาน                  |
 | Mode                            | 1                       | ฐานนิยม                     |
 | Variance                        | 1                       | ความแปรปรวน                 |
-| Standard Deviation (SD. / STDEV.)              | 1                       | ส่วนเบี่ยงเบนมาตรฐาน        |
+| Variance                        | 1                       | พิสัย                 |
+| Range              | 1                       | ส่วนเบี่ยงเบนมาตรฐาน        |
 | Interquartile Range (IQR)       | 1                       | พิสัยระหว่างควอไทล์         |
 | Coefficient of Variation (CV)       | 1                       | สัมประสิทธิ์การแปรผัน        |
 | Outlier                         | 1                       | ค่าผิดปกติ / ค่านอกเกณฑ์                  |
